@@ -41,16 +41,13 @@ Base-pair position (bp units)<br />
 More information on this file format can be found on the PLINK website: http://pngu.mgh.harvard.edu/~purcell/plink/data.shtml#map<br /> 
 <br /> 
 ####################################################################<br /> 
-<br /> 
 File:<br /> 
 vitis_hybrids_not_imputed.ped<br /> 
 vitis_hybrids_not_imputed.map<br /> 
 <br /> 
 Description:<br /> 
 Genotype table in PLINK format. Contains genotypes for hybrid samples only prior to imputation. This file was used to calculate IBS values. <br /> 
-<br /> 
 ####################################################################<br /> 
-<br /> 
 File:<br /> 
 sample_names.txt<br /> 
 <br /> 
